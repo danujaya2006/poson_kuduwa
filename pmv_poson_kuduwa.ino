@@ -1,6 +1,7 @@
 #define on LOW
 #define off HIGH
-int time = 1000;
+int time = 1000;                                    // Danujaya DAHAM
+                                                     //  2025 - A/L
 
 
 void setup() {
